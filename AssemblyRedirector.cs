@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 using System.Reflection;
-using RedirectionFramework.Extensions;
-using RedirectionFramework.Attributes;
+using PropSnapping.RedirectionFramework.Extensions;
+using PropSnapping.RedirectionFramework.Attributes;
 
-namespace RedirectionFramework
+namespace PropSnapping.RedirectionFramework
 {
 
     public class AssemblyRedirector

@@ -1,4 +1,4 @@
-﻿namespace RedirectionFramework
+﻿namespace PropSnapping.RedirectionFramework
 {
     public class Tuple<T1, T2>
     {

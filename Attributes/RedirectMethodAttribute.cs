@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RedirectionFramework.Attributes
+namespace PropSnapping.RedirectionFramework.Attributes
 {
     [AttributeUsage(AttributeTargets.Method)]
     internal class RedirectMethodAttribute : RedirectAttribute

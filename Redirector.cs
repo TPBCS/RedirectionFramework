@@ -1,6 +1,6 @@
-﻿using RedirectionFramework.Extensions;
+﻿using PropSnapping.RedirectionFramework.Extensions;
 
-namespace RedirectionFramework
+namespace PropSnapping.RedirectionFramework
 {
     public class Redirector<T>
     {

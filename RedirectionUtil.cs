@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using RedirectionFramework.Attributes;
+using PropSnapping.RedirectionFramework.Attributes;
 
-namespace RedirectionFramework
+namespace PropSnapping.RedirectionFramework
 {
     public static class RedirectionUtil
     {

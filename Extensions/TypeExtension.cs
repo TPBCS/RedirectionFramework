@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace RedirectionFramework.Extensions
+namespace PropSnapping.RedirectionFramework.Extensions
 {
     public static class TypeExtension
     {
