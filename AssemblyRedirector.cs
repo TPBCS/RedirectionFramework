@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 using System.Reflection;
-using RedirectionFramework.Extensions;
-using RedirectionFramework.Attributes;
+using NaturalResourcesBrush.RedirectionFramework.Extensions;
+using NaturalResourcesBrush.RedirectionFramework.Attributes;
 
-namespace RedirectionFramework
+namespace NaturalResourcesBrush.RedirectionFramework
 {
 
     public class AssemblyRedirector

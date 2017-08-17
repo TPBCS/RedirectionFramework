@@ -1,4 +1,4 @@
-﻿namespace RedirectionFramework
+﻿namespace NaturalResourcesBrush.RedirectionFramework
 {
     public class Tuple<T1, T2>
     {

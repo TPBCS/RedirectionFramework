@@ -1,6 +1,6 @@
-﻿using RedirectionFramework.Extensions;
+﻿using NaturalResourcesBrush.RedirectionFramework.Extensions;
 
-namespace RedirectionFramework
+namespace NaturalResourcesBrush.RedirectionFramework
 {
     public class Redirector<T>
     {

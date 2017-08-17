@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace RedirectionFramework.Extensions
+namespace NaturalResourcesBrush.RedirectionFramework.Extensions
 {
     public static class TypeExtension
     {
