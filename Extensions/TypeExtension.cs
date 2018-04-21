@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace RedirectionFramework.Extensions
+namespace ThemeMixer.RedirectionFramework.Extensions
 {
     public static class TypeExtension
     {

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 using System.Reflection;
-using RedirectionFramework.Extensions;
-using RedirectionFramework.Attributes;
+using ThemeMixer.RedirectionFramework.Extensions;
+using ThemeMixer.RedirectionFramework.Attributes;
 
-namespace RedirectionFramework
+namespace ThemeMixer.RedirectionFramework
 {
 
     public class AssemblyRedirector

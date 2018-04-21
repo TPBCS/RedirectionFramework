@@ -1,4 +1,4 @@
-﻿namespace RedirectionFramework
+﻿namespace ThemeMixer.RedirectionFramework
 {
     public class Tuple<T1, T2>
     {

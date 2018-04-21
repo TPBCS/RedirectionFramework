@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using RedirectionFramework.Attributes;
+using ThemeMixer.RedirectionFramework.Attributes;
 
-namespace RedirectionFramework
+namespace ThemeMixer.RedirectionFramework
 {
     public static class RedirectionUtil
     {

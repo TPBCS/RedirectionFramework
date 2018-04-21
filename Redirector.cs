@@ -1,6 +1,6 @@
-﻿using RedirectionFramework.Extensions;
+﻿using ThemeMixer.RedirectionFramework.Extensions;
 
-namespace RedirectionFramework
+namespace ThemeMixer.RedirectionFramework
 {
     public class Redirector<T>
     {
